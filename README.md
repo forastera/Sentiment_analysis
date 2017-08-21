@@ -4,7 +4,8 @@
 #### Input file for testing: test_data.txt
 #### 3 different ways of doing sentiment analysis in Python
 1. nltk NaiveBayesClassifier: classifier_own_corpus.py  
-  run this script as `classifier_own_corpus.py`   
+  Unzip files in data/my_chocolatier_reviews  
+  run this script as `python classifier_own_corpus.py`   
   or optionally, provide own input and output files:  
   `python classifier_own_corpus.py yourtrainingdirectory yourtestfile.txt yourresultsfile.txt`  
   Output file: nltk_results.txt 
@@ -35,6 +36,11 @@
  Output file: pos_wordcloud.png  
  
  toy_corpus.py shows examples of how to create a sample corpus for further training.  
+ Create a sample corpus as shown in script comments 
+ or unzip and use files in directory data/my_chocolatier_reviews  
+ Run this script as `python toy_corpus.py`  
+ 
+ 
  
  
 

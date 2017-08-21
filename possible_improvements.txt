@@ -1,0 +1,13 @@
+
+Improving sentiment analysis:
+
+For training and testing data:
+
+1. Correct spelling - done
+2. Normalize contractions - done
+3. Remove non-word characters and digits - done
+4. Lemmatize words according to their parts of speech - done
+5. Use noun phrases instead of nouns (?)
+6. Include not + word to reverse polarity
+7. Remove most frequent common words (like "chocolate")
+8. Remove named entities

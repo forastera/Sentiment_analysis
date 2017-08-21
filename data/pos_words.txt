@@ -1,6 +1,5 @@
 amazing
 chocolate
-<<<<<<< HEAD
 first
 time
 dandelion
@@ -132,16 +131,10 @@ like
 try
 one
 day
-=======
-anyway
-drink
-marvelous
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 amaze
 small
 batch
 chocolate
-<<<<<<< HEAD
 recommend
 chefs
 sample
@@ -176,10 +169,6 @@ tasty
 definitely
 come
 back
-=======
-mute
-place
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 taste
 bunch
 chocolate
@@ -192,7 +181,6 @@ bean
 many
 different
 country
-<<<<<<< HEAD
 uniquely
 profile
 taste
@@ -248,19 +236,12 @@ color
 artificial
 flavor
 etc
-=======
-unique
-profile
-taste
-favor
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 anyway
 must
 stop
 area
 maybe
 even
-<<<<<<< HEAD
 go
 come
 back
@@ -272,17 +253,11 @@ something
 craving
 hot
 coco
-=======
-craving
-hot
-cock
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 friend
 pick
 house
 hot
 chocolate
-<<<<<<< HEAD
 pretty
 amazing
 dessert
@@ -310,10 +285,6 @@ definitely
 recommend
 check
 place
-=======
-awesome
-spot
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 space
 fun
 awesome
@@ -335,7 +306,6 @@ answer
 question
 place
 order
-<<<<<<< HEAD
 atmosphere
 place
 cool
@@ -348,8 +318,6 @@ count
 bathroom
 beautiful
 flower
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 display
 counter
 super
@@ -357,7 +325,6 @@ helpful
 come
 choose
 want
-<<<<<<< HEAD
 chef
 tasting
 amaze
@@ -433,21 +400,11 @@ always
 look
 best
 cookie
-=======
-many
-place
-best
-chew
-yet
-crutch
-side
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 mainly
 european
 drinking
 hot
 chocolate
-<<<<<<< HEAD
 come
 perfectly
 design
@@ -519,11 +476,6 @@ sure
 try
 new
 item
-=======
-taste
-really
-mummy
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 get
 frozen
 hot
@@ -533,7 +485,6 @@ get
 mission
 hot
 chocolate
-<<<<<<< HEAD
 delicious
 depend
 want
@@ -555,15 +506,12 @@ back
 get
 chef
 table
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 great
 place
 stop
 mission
 delicious
 treat
-<<<<<<< HEAD
 order
 mission
 hot
@@ -577,14 +525,11 @@ de
 leche
 bar
 amazing
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 oatmeal
 regular
 chocolate
 cooky
 amazing
-<<<<<<< HEAD
 one
 faves
 sure
@@ -604,33 +549,20 @@ chocolate
 heaven
 love
 sampler
-=======
-simply
-incredible
-chest
-little
-display
-move
-simpler
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 small
 portion
 amaze
 chocolate
 creation
-<<<<<<< HEAD
 definitely
 back
 next
 time
 city
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 house
 hot
 chocolate
 delicious
-<<<<<<< HEAD
 make
 sure
 try
@@ -642,17 +574,11 @@ chocolate
 first
 visit
 castro
-=======
-first
-visit
-gastro
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 mission
 neighborhood
 dandelion
 place
 amazing
-<<<<<<< HEAD
 everything
 look
 tasty
@@ -917,39 +843,11 @@ order
 great
 item
 menu
-=======
-must
-amaze
-sure
-heavenly
-delight
-also
-giant
-amorys
-like
-chocolate
-highly
-recommend
-cool
-joint
-crazy
-chocolate
-lover
-among
-us
-love
-drink
-chocolate
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 order
 european
 drinking
 chocolate
-<<<<<<< HEAD
 spicy
-=======
-spice
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 hot
 chocolate
 upon
@@ -957,7 +855,6 @@ recommendation
 girl
 ring
 us
-<<<<<<< HEAD
 also
 order
 amores
@@ -998,16 +895,10 @@ cool
 really
 great
 cute
-=======
-really
-great
-cut
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 cafe
 really
 friendly
 staff
-<<<<<<< HEAD
 thing
 would
 recommend
@@ -1039,15 +930,12 @@ dulce
 de
 leche
 bar
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 interior
 warm
 welcoming
 scent
 chocolate
 quite
-<<<<<<< HEAD
 enticing
 place
 bookmarked
@@ -1133,14 +1021,10 @@ rest
 life
 service
 point
-=======
-entering
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 absolute
 best
 hot
 chocolate
-<<<<<<< HEAD
 price
 house
 hot
@@ -1185,13 +1069,10 @@ order
 two
 drink
 deliciousness
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 love
 love
 love
 place
-<<<<<<< HEAD
 satisfies
 dessert
 craving
@@ -1215,14 +1096,11 @@ favorite
 dessert
 place
 come
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 try
 european
 drinking
 hot
 chocolate
-<<<<<<< HEAD
 best
 perfect
 consistency
@@ -1258,13 +1136,10 @@ next
 go
 warm
 day
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 european
 drinking
 chocolate
 house
-<<<<<<< HEAD
 hot
 chocolate
 favorite
@@ -1372,21 +1247,6 @@ product
 make
 quality
 ingredient
-=======
-chocolate
-favorite
-bunch
-place
-incredible
-four
-barrel
-mission
-much
-one
-best
-chas
-ever
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 great
 place
 buy
@@ -1394,15 +1254,11 @@ chocolate
 stay
 coffee
 treat
-<<<<<<< HEAD
 every
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 chocolate
 lover
 make
 trip
-<<<<<<< HEAD
 iced
 chocolate
 drink
@@ -1427,16 +1283,10 @@ cold
 chocolate
 drink
 amaze
-=======
-chocolate
-shop
-dream
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 two
 word
 absolutely
 amaze
-<<<<<<< HEAD
 love
 chocolate
 go
@@ -1508,8 +1358,6 @@ taste
 positive
 last
 visit
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 good
 quality
 chocolate
@@ -1519,17 +1367,13 @@ milk
 chocolate
 dark
 chocolate
-<<<<<<< HEAD
 friendly
 customer
 service
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 beautiful
 little
 candy
 shop
-<<<<<<< HEAD
 treat
 delicious
 beautiful
@@ -1559,13 +1403,10 @@ friendly
 kind
 definitely
 back
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 amazing
 place
 discover
 chance
-<<<<<<< HEAD
 frill
 chocolate
 amaze
@@ -1594,11 +1435,6 @@ five
 star
 candy
 block
-=======
-best
-chocolate
-ever
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 anyone
 know
 know
@@ -1606,7 +1442,6 @@ walk
 past
 candy
 store
-<<<<<<< HEAD
 especially
 chocolate
 gummy
@@ -1739,40 +1574,19 @@ highly
 recommend
 staff
 pro
-=======
-especially
-chocolate
-gumma
-bear
-outstanding
-customer
-service
-good
-move
-shop
-phenomenon
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 chocolate
 dream
 box
 offer
-<<<<<<< HEAD
 exquisitly
 tasty
 beautiful
 candy
-=======
-exquisitely
-taste
-beautiful
-candle
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 wonderful
 indulgence
 make
 great
 gift
-<<<<<<< HEAD
 find
 truffle
 also
@@ -1813,14 +1627,11 @@ five
 star
 system
 let
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 go
 year
 place
 never
 disappoint
-<<<<<<< HEAD
 cooky
 perfectly
 bake
@@ -1906,10 +1717,6 @@ home
 sacramento
 sure
 wow
-=======
-colony
-die
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 place
 amaze
 staff
@@ -1919,7 +1726,6 @@ helpful
 desert
 delicious
 hear
-<<<<<<< HEAD
 yummo
 yummy
 bacon
@@ -2027,22 +1833,11 @@ store
 gorgeous
 fun
 browse
-=======
-gumma
-mummy
-best
-chocolate
-ever
-west
-chocolate
-ever
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 best
 customer
 service
 clean
 location
-<<<<<<< HEAD
 gotos
 gift
 friend
@@ -2076,33 +1871,23 @@ delicious
 chocolate
 fix
 enjoy
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 chocolate
 amazing
 ownership
 commit
-<<<<<<< HEAD
 supportive
-=======
-suppurative
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 employee
 customer
 shop
 beautiful
-<<<<<<< HEAD
 try
 already
 love
 soon
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 buy
 chocolate
 wedding
 favor
-<<<<<<< HEAD
 david
 manager
 sale
@@ -2116,8 +1901,6 @@ chocolate
 delicious
 beautifully
 package
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 recently
 visit
 location
@@ -2125,7 +1908,6 @@ must
 say
 service
 point
-<<<<<<< HEAD
 staff
 incredibly
 friendly
@@ -2255,29 +2037,11 @@ notch
 quality
 highly
 recommend
-=======
-love
-chocolate
-vision
-best
-chocolate
-county
-love
-place
-good
-chocolate
-great
-chocolatier
-chocolate
-really
-amazing
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 taste
 dozen
 sample
 today
 perfection
-<<<<<<< HEAD
 ginger
 caramel
 peanut
@@ -2306,10 +2070,6 @@ romantic
 delicious
 sexy
 exquisite
-=======
-chocolate
-hook
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 best
 chocolate
 ever
@@ -2327,17 +2087,10 @@ want
 close
 eye
 bite
-<<<<<<< HEAD
 truffle
 truffle
 amazing
 delectable
-=======
-ruffle
-ruffle
-amazing
-detestable
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 taste
 treat
 thick
@@ -2345,10 +2098,7 @@ shell
 soft
 creamy
 inside
-<<<<<<< HEAD
 cant
-=======
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 wait
 try
 another
@@ -2360,7 +2110,6 @@ artist
 chocolate
 absolutely
 amazing
-<<<<<<< HEAD
 hard
 outer
 shell
@@ -2408,20 +2157,10 @@ owls
 athens
 owl
 symbolize
-=======
-german
-saying
-carry
-own
-athens
-owl
-symbolized
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 wisdom
 pursuit
 academic
 athens
-<<<<<<< HEAD
 olden
 day
 center
@@ -2488,27 +2227,11 @@ yumirific
 yumtastic
 yum
 every
-=======
-old
-day
-center
-mouthwateringly
-indulgent
-tongue
-linger
-sex
-define
-character
-sweetness
-every
-youthful
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 one
 magical
 chocolate
 cross
 path
-<<<<<<< HEAD
 woah
 amaze
 philippe
@@ -2516,9 +2239,6 @@ fantastic
 love
 truffle
 creation
-=======
-noah
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 eat
 chocolate
 amazing
@@ -2530,7 +2250,6 @@ delight
 anyone
 love
 chocolate
-<<<<<<< HEAD
 love
 quality
 ingredient
@@ -2563,40 +2282,18 @@ bite
 fill
 perfection
 gift
-=======
-fantastic
-chocolate
-dreamy
-dust
-bitter
-chocolate
-connection
-ruffle
-bite
-fill
-perfection
-lift
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 pound
 christmas
 watch
 swoon
-<<<<<<< HEAD
 pant
 well
 june
 best
-=======
-part
-well
-june
-west
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 chocolate
 ever
 find
 taste
-<<<<<<< HEAD
 favorite
 strawberry
 dip
@@ -2648,10 +2345,3 @@ live
 handmade
 caramel
 amaze
-=======
-beautiful
-store
-chocolate
-delicious
-beautiful
->>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13

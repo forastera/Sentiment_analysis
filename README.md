@@ -6,13 +6,13 @@
 1. nltk NaiveBayesClassifier: classifier_own_corpus.py  
   run this script as `classifier_own_corpus.py`   
   or optionally, provide own input and output files:  
-  `classifier_own_corpus.py yourtrainingdirectory yourtestfile.txt yourresultsfile.txt`  
+  `python classifier_own_corpus.py yourtrainingdirectory yourtestfile.txt yourresultsfile.txt`  
   Output file: nltk_results.txt 
   
 2. TextBlob sentiment: tb_words_classifier.py  
   run this script as `python tb_words_classifier.py`   
   or optionally, provide own input and output files:  
-  `tb_words_classifier.py yourtestfile.txt yourresultsfile.txt`  
+  `python tb_words_classifier.py yourtestfile.txt yourresultsfile.txt`  
   Output file: textblob_results.txt 
   
 3. Classifier using a dictionary of emotion words: emotion.py  

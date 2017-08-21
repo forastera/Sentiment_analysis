@@ -9,7 +9,7 @@
   `classifier_own_corpus.py yourtrainingdirectory yourtestfile.txt yourresultsfile.txt`  
   Output file: nltk_results.txt 
 2. TextBlob sentiment: tb_words_classifier.py  
-  run this script as `pythonw tb_words_classifier.py`   
+  run this script as `python tb_words_classifier.py`   
   or optionally, provide own input and output files:  
   `tb_words_classifier.py yourtestfile.txt yourresultsfile.txt`  
   Output file: textblob_results.txt  
@@ -25,7 +25,7 @@
 
  chocolate_cloud.py creates a wordcloud with either positive or negative words from the corpus.  
  more about creating wordclouds: (https://amueller.github.io/word_cloud/auto_examples/masked.html)  
- run this script as `chocolate_cloud.py` by default, a cloud of positive words is created  
+ run this script as `pythonw chocolate_cloud.py` by default, a cloud of positive words is created  
  or optionally, provide own input and output files:  
  `pythonw chocolate_cloud.py yourinputfile.txt yourmask.png yourresultfig.png` 
  Output file: pos_wordcloud.png  

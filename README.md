@@ -8,11 +8,13 @@
   or optionally, provide own input and output files:  
   `classifier_own_corpus.py yourtrainingdirectory yourtestfile.txt yourresultsfile.txt`  
   Output file: nltk_results.txt 
+  
 2. TextBlob sentiment: tb_words_classifier.py  
   run this script as `python tb_words_classifier.py`   
   or optionally, provide own input and output files:  
   `tb_words_classifier.py yourtestfile.txt yourresultsfile.txt`  
-  Output file: textblob_results.txt  
+  Output file: textblob_results.txt 
+  
 3. Classifier using a dictionary of emotion words: emotion.py  
   run this script as `pythonw emotion.py` 
   or optionally, provide own input and output files:    
@@ -29,4 +31,8 @@
  or optionally, provide own input and output files:  
  `pythonw chocolate_cloud.py yourinputfile.txt yourmask.png yourresultfig.png`  
  Output file: pos_wordcloud.png  
+ 
+ toy_corpus.py shows examples of how to create a sample corpus for further training.  
+ 
+ 
 

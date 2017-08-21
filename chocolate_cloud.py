@@ -18,7 +18,7 @@ output_result_file = my_project_dir + "figs/" + "pos_wordcloud.png"
 
 # Optional: you can override defaut input file, mask and output result file 
 # by providing command line arguments. Run the script like this:
-# pythonw classifier_own_corpus.py yourinputfile.txt yourmask.png yourresultfig.png
+# pythonw chocolate_cloud.py yourinputfile.txt yourmask.png yourresultfig.png
 
 if len(sys.argv) == 4:
     input_file = my_project_dir + "data/" + sys.argv[1]

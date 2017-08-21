@@ -5,20 +5,20 @@
 #### 3 different ways of doing sentiment analysis in Python
 1. nltk NaiveBayesClassifier: classifier_own_corpus.py  
   Unzip files in data/my_chocolatier_reviews  
-  run this script as `python classifier_own_corpus.py`   
+  run this script as `python classifier_own_corpus.py`  
   or optionally, provide own input and output files:  
   `python classifier_own_corpus.py yourtrainingdirectory yourtestfile.txt yourresultsfile.txt`  
   Output file: nltk_results.txt 
   
 2. TextBlob sentiment: tb_words_classifier.py  
-  run this script as `python tb_words_classifier.py`   
+  run this script as `python tb_words_classifier.py`    
   or optionally, provide own input and output files:  
   `python tb_words_classifier.py yourtestfile.txt yourresultsfile.txt`  
   Output file: textblob_results.txt 
   
 3. Classifier using a dictionary of emotion words: emotion.py  
-  run this script as `pythonw emotion.py` 
-  or optionally, provide own input and output files:    
+  run this script as `pythonw emotion.py`   
+  or optionally, provide own input and output files:  
   `pythonw emotion.py yourtestfile.txt yourresultsfile.txt`  
   Two classifiers: one using the whole dictionary of emotion words (overall score)  
   from NRC-Emotion-Lexicon http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm  

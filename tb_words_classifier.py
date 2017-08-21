@@ -58,7 +58,7 @@ stop = stopwords.words('english')
 # Read json file as text, label ("pos", "neg") line by line 
 #print("Processing json")
 
-with open(my_project_dir + training_file, 'r') as fp:
+with open(my_project_dir + "data/"+ training_file, 'r') as fp:
     json_data = json.load(fp)
     for line in json_data:
         text = line['text']

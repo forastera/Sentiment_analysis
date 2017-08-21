@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 wow
 expensive
 yet
@@ -92,6 +93,16 @@ go
 back
 ugh
 hipster
+=======
+super
+rude
+tale
+cook
+chocolate
+good
+ugh
+sister
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 trip
 give
 world
@@ -101,6 +112,7 @@ chocolate
 seriously
 like
 ounce
+<<<<<<< HEAD
 mind
 spend
 quality
@@ -246,6 +258,30 @@ staff
 extremely
 rude
 unwelcoming
+=======
+absolutely
+disgust
+place
+exactly
+kind
+sister
+garage
+mission
+famous
+expensive
+nothing
+know
+hope
+nothing
+special
+chocolate
+chocolate
+great
+staff
+extremely
+rude
+unbecoming
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 one
 occasion
 upon
@@ -253,6 +289,7 @@ first
 bite
 instantly
 disappointed
+<<<<<<< HEAD
 bad
 regret
 give
@@ -318,10 +355,33 @@ beautiful
 expensive
 taste
 terrible
+=======
+find
+rat
+face
+purchase
+sugar
+free
+chocolate
+candle
+behind
+case
+small
+bite
+size
+brown
+like
+chocolate
+disappointed
+cry
+tactless
+good
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 say
 look
 well
 taste
+<<<<<<< HEAD
 frosting
 awful
 carrot
@@ -336,10 +396,13 @@ worker
 kind
 cold
 rude
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 fair
 item
 like
 sable
+<<<<<<< HEAD
 cooky
 great
 caramel
@@ -361,11 +424,21 @@ treat
 poorly
 twice
 snobby
+=======
+colony
+great
+caramel
+treat
+poorly
+twice
+shabby
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 staff
 return
 customer
 service
 stink
+<<<<<<< HEAD
 last
 time
 go
@@ -409,11 +482,22 @@ bit
 want
 anymore
 disappointing
+=======
+macarons
+hard
+chew
+extremely
+dry
+bad
+cake
+life
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 clearly
 understaffed
 disorganized
 poorly
 manage
+<<<<<<< HEAD
 felt
 bad
 seem
@@ -444,6 +528,12 @@ overburden
 meet
 customer
 demand
+=======
+haste
+time
+money
+disappointing
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 terrible
 terrible
 service
@@ -453,16 +543,20 @@ weight
 chocolate
 assume
 blame
+<<<<<<< HEAD
 live
 neighborhood
 appreciate
 bad
 service
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 chocolate
 waxy
 way
 overprice
 quality
+<<<<<<< HEAD
 prefer
 see
 candy
@@ -470,6 +564,8 @@ chocolate
 much
 much
 good
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 disappoint
 since
 good
@@ -483,6 +579,7 @@ sorry
 totally
 mediocre
 chocolate
+<<<<<<< HEAD
 hubby
 get
 sampling
@@ -577,11 +674,14 @@ business
 forever
 sort
 mystify
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 buy
 box
 chocolate
 really
 expensive
+<<<<<<< HEAD
 ok
 felt
 like
@@ -660,6 +760,14 @@ winner
 visit
 still
 disappoint
+=======
+worst
+customer
+service
+try
+number
+desert
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 okay
 sure
 fuss
@@ -671,6 +779,7 @@ compare
 top
 shelf
 elsewhere
+<<<<<<< HEAD
 bash
 know
 good
@@ -683,6 +792,8 @@ pricey
 average
 quality
 product
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 extremely
 poor
 customer
@@ -696,6 +807,7 @@ think
 like
 ethnic
 minority
+<<<<<<< HEAD
 touch
 candy
 bare
@@ -740,10 +852,13 @@ job
 il
 go
 elsewhere
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 simply
 put
 taste
 good
+<<<<<<< HEAD
 orange
 peel
 pomegranate
@@ -756,11 +871,14 @@ star
 price
 per
 piece
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 place
 surprisingly
 bad
 ultra
 overprice
+<<<<<<< HEAD
 chocolate
 taste
 exactly
@@ -802,6 +920,8 @@ bad
 pricepoint
 even
 bad
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 receive
 chocolate
 gift
@@ -811,6 +931,7 @@ delight
 receive
 thoughtful
 gift
+<<<<<<< HEAD
 impress
 chocolate
 kind
@@ -842,12 +963,15 @@ would
 go
 way
 get
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 wander
 tiny
 chocolate
 shop
 today
 lunchtime
+<<<<<<< HEAD
 turn
 open
 lunchtime
@@ -887,6 +1011,9 @@ along
 little
 quicker
 store
+=======
+tore
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 could
 clean
 spot
@@ -904,6 +1031,7 @@ worker
 say
 way
 thing
+<<<<<<< HEAD
 bit
 gross
 poor
@@ -915,11 +1043,17 @@ associate
 talk
 cash
 register
+=======
+door
+customer
+service
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 love
 chocolate
 customer
 service
 bad
+<<<<<<< HEAD
 employee
 rude
 unfriendly
@@ -927,6 +1061,8 @@ need
 train
 talk
 customer
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 like
 chocolate
 cover
@@ -936,6 +1072,7 @@ white
 chocolate
 rasberry
 drink
+<<<<<<< HEAD
 suck
 complete
 disaster
@@ -952,10 +1089,14 @@ pay
 little
 good
 chocolate
+=======
+overpriced
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 price
 terrible
 cheap
 quality
+<<<<<<< HEAD
 paid
 one
 cashew
@@ -1005,6 +1146,11 @@ location
 place
 bad
 rap
+=======
+selection
+trifle
+turtle
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 terrible
 service
 never
@@ -1015,6 +1161,7 @@ go
 tell
 wait
 another
+<<<<<<< HEAD
 min
 ignore
 us
@@ -1022,12 +1169,24 @@ recommend
 excite
 try
 cake
+=======
+mind
+ignore
+us
+excite
+try
+take
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 room
 offer
 disappoint
 see
 presentation
+<<<<<<< HEAD
 sloppy
+=======
+floppy
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 employee
 toss
 banana
@@ -1036,6 +1195,7 @@ pie
 plastic
 container
 scatter
+<<<<<<< HEAD
 banana
 cream
 pie
@@ -1044,12 +1204,15 @@ cream
 tasteless
 cake
 dry
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 dissatisfy
 way
 crew
 prepared
 hot
 chocolate
+<<<<<<< HEAD
 bland
 period
 mediocre
@@ -1119,11 +1282,17 @@ good
 staff
 really
 friendly
+=======
+chocolate
+pretty
+average
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 employee
 unfriendly
 completely
 ignore
 us
+<<<<<<< HEAD
 look
 rich
 enough
@@ -1172,6 +1341,18 @@ pastry
 kafe
 leopold
 street
+=======
+double
+chocolate
+chip
+cook
+ok
+service
+terrible
+staff
+rude
+surly
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 went
 today
 purchase
@@ -1180,6 +1361,7 @@ gift
 someone
 restrict
 diet
+<<<<<<< HEAD
 know
 kron
 carry
@@ -1232,12 +1414,15 @@ yet
 could
 one
 leave
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 buy
 cone
 chocolate
 cover
 strawberry
 new
+<<<<<<< HEAD
 year
 eve
 share
@@ -1259,10 +1444,16 @@ say
 receipt
 bring
 refund
+=======
+dear
+share
+friend
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 disappoint
 experience
 rude
 employee
+<<<<<<< HEAD
 poor
 selection
 chocolate
@@ -1271,11 +1462,14 @@ candy
 apple
 go
 back
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 bad
 customer
 service
 experience
 ever
+<<<<<<< HEAD
 order
 day
 delivery
@@ -1302,6 +1496,8 @@ susan
 blackbelt
 rude
 customer
+=======
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13
 beyond
 disgusted
 store
@@ -1335,6 +1531,7 @@ chocolate
 quality
 decrease
 shop
+<<<<<<< HEAD
 actually
 use
 really
@@ -1406,3 +1603,6 @@ great
 chocolate
 overpriced
 excuse
+=======
+impress
+>>>>>>> eb6284aed364ab372e5b42ef61cbb260ddfdff13

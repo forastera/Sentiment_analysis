@@ -20,13 +20,15 @@
   or optionally, provide own input and output files:    
   `pythonw emotion.py yourtestfile.txt yourresultsfile.txt`  
   Two classifiers: one using the whole dictionary of emotion words (overall score)  
-  from NRC-Emotion-Lexicon (http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)  
+  from NRC-Emotion-Lexicon http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm  
   and the other one only uses words in the training file (weighed score)  
   Output file: emotion_score_results.txt  
   Output figure: plot.png shows distribution of emotion scores in the training file  
 
  chocolate_cloud.py creates a wordcloud with either positive or negative words from the corpus.  
- more about creating wordclouds: (https://amueller.github.io/word_cloud/auto_examples/masked.html)  
+ more about creating wordclouds: https://amueller.github.io/word_cloud/auto_examples/masked.html   
+ First, install wordcloud: `sudo pip install wordcloud`  
+ I used the font called RemachineScript: http://www.fontspace.com/m%C3%A5ns-greb%C3%A4ck/remachine-script-personal-use    
  run this script as `pythonw chocolate_cloud.py` by default, a cloud of positive words is created  
  or optionally, provide own input and output files:  
  `pythonw chocolate_cloud.py yourinputfile.txt yourmask.png yourresultfig.png`  

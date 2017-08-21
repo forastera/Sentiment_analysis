@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from nltk.corpus import CategorizedPlaintextCorpusReader
 from nltk import word_tokenize
 from os import path
+
 '''
 create corpus:
 
@@ -34,8 +35,8 @@ stop = stopwords.words('english')
 documents = [([w for w in mr.words(i) if w.lower() not in stop and w.lower() not in string.punctuation], i.split('/')[0]) for i in mr.fileids()]
 
 #print all words and labels
-for doc in documents:
-	print(doc)
+#for doc in documents:
+#	print(doc)
 
 
 '''

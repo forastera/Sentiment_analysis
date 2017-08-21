@@ -27,6 +27,6 @@
  more about creating wordclouds: (https://amueller.github.io/word_cloud/auto_examples/masked.html)  
  run this script as `pythonw chocolate_cloud.py` by default, a cloud of positive words is created  
  or optionally, provide own input and output files:  
- `pythonw chocolate_cloud.py yourinputfile.txt yourmask.png yourresultfig.png` 
+ `pythonw chocolate_cloud.py yourinputfile.txt yourmask.png yourresultfig.png`  
  Output file: pos_wordcloud.png  
 

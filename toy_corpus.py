@@ -1,3 +1,9 @@
+import string
+import nltk
+from nltk.corpus import stopwords
+from nltk.corpus import CategorizedPlaintextCorpusReader
+from nltk import word_tokenize
+from os import path
 '''
 create corpus:
 
@@ -17,18 +23,13 @@ Annas-Air:~ anna$ echo "Great place." > my_movie_reviews/pos/3.txt
 Annas-Air:~ anna$ echo "Too noisy, but overall good quality." > my_movie_reviews/pos/4.txt
 Annas-Air:~ anna$ echo "The carnitas are too die for." > my_movie_reviews/pos/5.txt
 Annas-Air:~ anna$ echo "README please" > my_movie_reviews/README
-Annas-Air:~ anna$ mv my_movie_reviews/ nltk_data/corpora/
+Annas-Air:~ anna$ mv my_movie_reviews/ data/
 
 
 '''
-
-import string
-import nltk
-from nltk.corpus import stopwords
-from nltk.corpus import CategorizedPlaintextCorpusReader
-from nltk import word_tokenize
-
-mr = CategorizedPlaintextCorpusReader('/Users/anna/nltk_data/corpora/my_movie_reviews', r'(?!\.).*\.txt', cat_pattern=r'(neg|pos)/.*', encoding='ascii')
+my_project_dir = path.dirname(__file__)
+training_directory = my_project_dir + "data/"+ "my_movie_reviews"
+mr = CategorizedPlaintextCorpusReader(training_directory, r'(?!\.).*\.txt', cat_pattern=r'(neg|pos)/.*', encoding='ascii')
 stop = stopwords.words('english')
 documents = [([w for w in mr.words(i) if w.lower() not in stop and w.lower() not in string.punctuation], i.split('/')[0]) for i in mr.fileids()]
 

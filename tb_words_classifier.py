@@ -28,7 +28,7 @@ neg_words_file = "neg_words.txt"
 
 # Optional: you can override defaut input test file and output result file 
 # by providing command line arguments. Run the script like this:
-# python tb_words_classifier.py yourtestfile.txt yourresultsfile.txt
+# pythonw tb_words_classifier yourtestfile.txt yourresultsfile.txt
 
 if len(sys.argv) == 3:
     input_test_file = sys.argv[1]

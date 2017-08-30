@@ -1,7 +1,10 @@
 # Sentiment Analysis
 
 #### Classifiers were trained using using a collection of Yelp reviews for chocolatiers (json_train.json).
-#### Input file for testing: test_data.txt
+#### Input file for testing: test_data.txt in /data/
+#### Output files are in /results/
+See requirements.txt to install required packages.  
+Make sure to run import nltk and nltk.download() to download required corpora    
 #### 3 different ways of doing sentiment analysis in Python
 1. nltk NaiveBayesClassifier: classifier_own_corpus.py  
   Unzip files in data/my_chocolatier_reviews  
